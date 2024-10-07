@@ -1,4 +1,4 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="device_forever" id="kpgL|4A%%aJG}/XR36|P" x="227" y="-69"><statement name="HANDLER"><block type="device_show_leds" id="uU^S1!J*%Z6%-4X[i]T8"><field name="LEDS">`
+<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="pxt-on-start" id="(`W)ya3DUpzZ.ZBk-hO?" x="-131" y="-181"><statement name="HANDLER"><block type="device_print_message" id="fhLzV[k+30M)bBbB:57,"><value name="text"><shadow type="text" id="H-Vq9:lBI`7*fS,t1iXE"><field name="TEXT">Hello!</field></shadow></value></block></statement></block><block type="device_forever" id="kpgL|4A%%aJG}/XR36|P" x="323" y="-185"><statement name="HANDLER"><block type="device_show_leds" id="uU^S1!J*%Z6%-4X[i]T8"><field name="LEDS">`
         . . . . . 
         . # . # . 
         . . . . . 
@@ -16,4 +16,4 @@
         . . . . . 
         . # # # . 
         # . . . #
-        `</field><next><block type="device_pause" id="_.4FjIU,zzE9j=[Y(nf)"><value name="pause"><shadow type="timePicker" id="7*B1=qr-_%;87fg%hb!q"><field name="ms">100</field></shadow></value></block></next></block></next></block></next></block></next></block></next></block></statement></block><block type="pxt-on-start" id="(`W)ya3DUpzZ.ZBk-hO?" x="0" y="0"><statement name="HANDLER"><block type="device_print_message" id="fhLzV[k+30M)bBbB:57,"><value name="text"><shadow type="text" id="H-Vq9:lBI`7*fS,t1iXE"><field name="TEXT">Hello!</field></shadow></value></block></statement></block></xml>
+        `</field><next><block type="device_pause" id="_.4FjIU,zzE9j=[Y(nf)"><value name="pause"><shadow type="timePicker" id="7*B1=qr-_%;87fg%hb!q"><field name="ms">100</field></shadow></value></block></next></block></next></block></next></block></next></block></next></block></statement></block></xml>
